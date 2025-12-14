@@ -37,3 +37,5 @@ Konsep yang Diterapkan:
 Hasil akhirnya adalah perhitungan rata-rata yang akurat, hanya menggunakan data nilai yang valid (berupa angka).
 ### 🎯 Hasil Akhir
 <img width="602" height="229" alt="output validasi daftar nilai" src="https://github.com/user-attachments/assets/9a598462-b235-4826-a448-1eaeef7de8ff" />
+
+### 🎉 *Selesai — Terima kasih!*
